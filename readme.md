@@ -1,0 +1,1 @@
+A simple task management application built with React and Redux.
